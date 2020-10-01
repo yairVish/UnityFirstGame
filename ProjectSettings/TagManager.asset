@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - ground
+  - block
+  - player
+  - enemy
+  - coin
+  - bulletPlayer
+  - pointFirePlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: asset
+    uniqueID: 2531854129
+    locked: 0
+  - name: player
+    uniqueID: 3089457505
+    locked: 0
+  - name: handLeft
+    uniqueID: 2019876147
+    locked: 0
+  - name: foot2
+    uniqueID: 2777563055
+    locked: 0
+  - name: foot
+    uniqueID: 509350935
+    locked: 0
+  - name: body
+    uniqueID: 418013845
+    locked: 0
+  - name: eye
+    uniqueID: 873221299
+    locked: 0
+  - name: aniShoot
+    uniqueID: 2877980017
+    locked: 0
+  - name: handRight
+    uniqueID: 970453609
+    locked: 0
+  - name: enemy
+    uniqueID: 2306684857
+    locked: 0
+  - name: coin
+    uniqueID: 1119144235
+    locked: 0
+  - name: gun
+    uniqueID: 3276229707
+    locked: 0
+  - name: shoot
+    uniqueID: 3219638001
+    locked: 0
+  - name: water
+    uniqueID: 2102019841
+    locked: 0
+  - name: ground
+    uniqueID: 874078649
+    locked: 0
+  - name: spike
+    uniqueID: 3770425095
+    locked: 0
+  - name: barPlayer
+    uniqueID: 3364208657
+    locked: 0
